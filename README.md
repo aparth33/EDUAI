@@ -1,4 +1,4 @@
-# Watch-Me-Build-an-Education-Startup
+# EDUAI
 This is the code for "EDUAI" by Parth Aggarwal as an initiative for transforming education.
 
 ## Overview 
