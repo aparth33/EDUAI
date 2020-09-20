@@ -92,3 +92,10 @@ re-compilation of front-end:
 > rm -rf client/dist;cd client/src/; npm run build; cd ../..
 ```
 
+Working Preview:
+
+![Screenshot1](screenshots/EDUAI_1.png)
+
+![Screenshot2](screenshots/EDUAI_2.png)
+
+![Screenshot3](screenshots/EDUAI_3.png)
